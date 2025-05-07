@@ -111,9 +111,9 @@ aws cloudformation delete-stack --stack-name ecommerce-stack
 
 ## ✍️ Author
 
-Madhusudhan Anand
+**Madhusudhan Anand**
 Cloud Engineer | AWS Enthusiast  
-[GitHub](https://github.com/madhusudhan-anand)
+https://github.com/madhusudhan-anand
 
 ---
 
